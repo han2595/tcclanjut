@@ -3,7 +3,7 @@
 
 Melakukan Instalasi Git Di Windows 
 
-1.Yang pertama dilakukan adalah mendownload Git versi Windows di wbsite Git https://git-scm.com/download/win 
+1.Yang pertama dilakukan adalah mendownload Git versi Windows di website Git https://git-scm.com/download/win 
 
 ![01](images/README-01.jpg)
  
@@ -68,3 +68,6 @@ Melakukan Instalasi Git Di Windows
 16.Dan untuk memastikan Git sudah terinstal secara sempurna atau tidak kita bias cek melalui CMD dengan command ‘git –version’
  
  ![16](images/README-16.jpg)
+ 
+ 
+ Sekian Cara atau Proses Instalisasi Git di Windows 
