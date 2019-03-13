@@ -1,5 +1,5 @@
-# tcclanjut
-# Instalasi Git
+# tcclanjut minggu-01
+# Instalasi Git minggu-01
 
 Melakukan Instalasi Git Di Windows 
 
