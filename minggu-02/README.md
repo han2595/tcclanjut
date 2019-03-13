@@ -1,12 +1,13 @@
 # tcclanjut minggu-02
 # Pull Request-02
 
-Melakukan Pull Request di GitHub
+Melakukan Pull Request di GitHub ,
 Pull-request merupakan fitur yang memungkinkan kita memberitahukan kepada para pengembang 
 di pusat bahwa kita memiliki perubahan yang ingin dikirimkan ke mereka.
- Tombol pull-request ada pada kiri atas repositori:
+Tombol pull-request ada pada kiri atas repositori:
  
-1.Yang pertama dilakukan adalah mencari teman atau partner untuk berkolaborasi 
+1.Yang pertama dilakukan adalah mencari teman atau partner untuk berkolaborasi atau para pengembang 
+di pusat bahwa kita memiliki perubahan yang ingin dikirimkan ke mereka.
 
 ![01](images/README-01.jpg)
  
