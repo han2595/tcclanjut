@@ -69,11 +69,11 @@ kemudian
  
 9.Kemudian Pilih 'Compare and pull request', setelah itu isikan deskripsi PR(Pull Request) dan klik pada Create pull request:
 
-![9](images/README-9.jpg)
+![09](images/README-09.jpg)
 
 setelah selesai kita harus menunggu persetujuan dari pemilik repo , di kasus ini adalah 'yudhiwae'
  
- ![9.1](images/README-9.1.jpg)
+ ![09.1](images/README-09.1.jpg)
  
 10.Untuk diketahui bahwasalnya Upstream author bisa menyetujui setelah melakukan review: klik pada Pull requests, akan muncul PR dengan message seperti yang ditulis oleh kontributor (Add: contributor). Klik pada PR tersebut, review kemudian klik Merge pull request diikuti dengan Confirm merge. Setelah itu, status akan berubah menjadi Merged.
 
