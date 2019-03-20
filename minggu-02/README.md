@@ -1,12 +1,13 @@
 # tcclanjut minggu-02
 # Pull Request-02
 
-Melakukan Pull Request di GitHub
+Melakukan Pull Request di GitHub ,
 Pull-request merupakan fitur yang memungkinkan kita memberitahukan kepada para pengembang 
 di pusat bahwa kita memiliki perubahan yang ingin dikirimkan ke mereka.
- Tombol pull-request ada pada kiri atas repositori:
+Tombol pull-request ada pada kiri atas repositori:
  
-1.Yang pertama dilakukan adalah mencari teman atau partner untuk berkolaborasi 
+1.Yang pertama dilakukan adalah mencari teman atau partner untuk berkolaborasi atau para pengembang 
+di pusat bahwa kita memiliki perubahan yang ingin dikirimkan ke mereka.
 
 ![01](images/README-01.jpg)
  
@@ -69,11 +70,11 @@ kemudian
  
 9.Kemudian Pilih 'Compare and pull request', setelah itu isikan deskripsi PR(Pull Request) dan klik pada Create pull request:
 
-![9](images/README-9.jpg)
+![09](images/README-09.jpg)
 
 setelah selesai kita harus menunggu persetujuan dari pemilik repo , di kasus ini adalah 'yudhiwae'
  
- ![9.1](images/README-9.1.jpg)
+ ![09.1](images/README-09.1.jpg)
  
 10.Untuk diketahui bahwasalnya Upstream author bisa menyetujui setelah melakukan review: klik pada Pull requests, akan muncul PR dengan message seperti yang ditulis oleh kontributor (Add: contributor). Klik pada PR tersebut, review kemudian klik Merge pull request diikuti dengan Confirm merge. Setelah itu, status akan berubah menjadi Merged.
 
