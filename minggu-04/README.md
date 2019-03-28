@@ -1,7 +1,7 @@
 # tcclanjut minggu-04
-# KATACODA_SCENARIO-04
+## KATACODA_SCENARIO-04
 
-:mortar_board:han2595 	:one::six::five::four::one::zero::two::one::two:
+:mortar_board: han2595 	:one::six::five::four::one::zero::two::one::two:
 
 
 > Docker - Communicating Between Containers
@@ -18,12 +18,12 @@ Docker memiliki dua pendekatan untuk jaringan. Yang pertama mendefinisikan hubun
 
 Pendekatan alternatif adalah membuat jaringan docker yang terhubung dengan Kontainer. Jaringan memiliki atribut yang mirip dengan jaringan fisik, memungkinkan Kontainer untuk datang dan pergi lebih bebas daripada saat menggunakan Link.
 
-Yang akan kita bahas dari [Skenario Katakoda](https://www.katacoda.com/) adalah sebagai berikut :
+Yang akan kita bahas dari [Skenario Katacoda](https://www.katacoda.com/) adalah sebagai berikut :
 
  * [Communicating Between Containers](01-Communicating_Between_Containers.md) 
 
- Link Skenario Communicating Between Containers [Klik](https://www.katacoda.com/courses/docker/5)
-  
+ Link Skenario  [Katacoda](https://www.katacoda.com/courses/docker/5)
+  Communicating Between Containers 
   * [Docker Networks](02-Docker_Networks.md) 
 
-  Link Skenario Docker Networks [Klik](https://www.katacoda.com/courses/docker/networking-intro)
+  Link Skenario [Katacoda](https://www.katacoda.com/courses/docker/networking-intro) Docker Networks 

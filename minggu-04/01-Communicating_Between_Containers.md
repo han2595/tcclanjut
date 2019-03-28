@@ -1,4 +1,4 @@
-#Docker - Communicating Between Containers
+## Docker - Communicating Between Containers
 
 > Step 1 - Start Redis
 
@@ -44,7 +44,7 @@ Dengan link yang dibuat, Anda dapat melakukan ping sumber Kontainer dengan cara 
 
 Dengan Link yang dibuat, aplikasi dapat terhubung dan berkomunikasi dengan  sumber Kontainer dengan cara biasa, terlepas dari kenyataan bahwa kedua layanan berjalan dalam Kontainer.
 
-Example Application
+> Example Application
 
 Berikut adalah aplikasi node.js sederhana yang terhubung ke redis menggunakan redis hostname.
 
