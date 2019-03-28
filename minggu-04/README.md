@@ -1,21 +1,16 @@
 # tcclanjut minggu-04
 # KATACODA_SCENARIO-04
 
-[![Build Status][travis_img]][travis]
-<a href='https://coveralls.io/github/axiros/terminal_markdown_viewer?branch=master'>
-<img src='https://coveralls.io/repos/github/axiros/terminal_markdown_viewer/badge.svg?branch=master' alt='Coverage Status' /></a>
-[![PyPI version](https://badge.fury.io/py/mdv.svg)](https://badge.fury.io/py/mdv)
-<a href="https://github.com/ambv/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
+:mortar_board:han2595 	::keycap_one:::keycap_six:::keycap_five:::keycap_four:::keycap_one:::keycap_zero:::keycap_two:::keycap_one:::keycap_two:
 
 
-
-#Docker - Communicating Between Containers
+> Docker - Communicating Between Containers
 
 Skenario ini mengeksplorasi cara mengizinkan beberapa Kontainer untuk berkomunikasi satu sama lain. Langkah-langkah ini akan menjelaskan cara menghubungkan penyimpanan data, dalam hal ini, Redis, ke aplikasi yang berjalan dalam kontainer terpisah.
 Lingkungan ini telah dikonfigurasikan dengan klien Docker dan daemon.
 Nama mesin yang digunakan Docker daemon dinamakan docker. Jika Anda ingin mengakses salah satu layanan, gunakan docker di localhost atau 0.0.0.0.
 
-#Docker - Docker Networks
+> Docker - Docker Networks
 
 Skenario ini mengeksplorasi cara membuat sebuah jaringan docker yang memungkinkan Kontainer untuk berkomunikasi. Kami juga akan menjelajahi Server DNS Tertanam yang ditambahkan di Docker 1.10.
 
