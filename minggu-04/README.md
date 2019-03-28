@@ -18,6 +18,10 @@ Pendekatan alternatif adalah membuat jaringan docker yang terhubung dengan Konta
 
 Yang akan kita bahas dari [Skenario Katakoda](https://www.katacoda.com/) adalah sebagai berikut :
 
- * [Communicating Between Containers](01-Communicating_Between_Containers.md) Link Skenario Communicating Between Containers [Link](https://www.katacoda.com/courses/docker/5)
+ * [Communicating Between Containers](01-Communicating_Between_Containers.md) 
+ 
+ Link Skenario Communicating Between Containers [Klik](https://www.katacoda.com/courses/docker/5)
   
-  * [Docker Networks](02-Docker_Networks.md) Link Skenario Docker Networks [Link](https://www.katacoda.com/courses/docker/networking-intro)
+  * [Docker Networks](02-Docker_Networks.md) 
+
+  Link Skenario Docker Networks [Klik](https://www.katacoda.com/courses/docker/networking-intro)
