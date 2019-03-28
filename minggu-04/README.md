@@ -1,7 +1,7 @@
 # tcclanjut minggu-04
 # KATACODA_SCENARIO-04
 
-:mortar_board:han2595 	::keycap_one:::keycap_six:::keycap_five:::keycap_four:::keycap_one:::keycap_zero:::keycap_two:::keycap_one:::keycap_two:
+:mortar_board:han2595 	:one::six::five::four::one::zero::two::one::two:
 
 
 > Docker - Communicating Between Containers
