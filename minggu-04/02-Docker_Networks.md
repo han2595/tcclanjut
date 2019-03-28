@@ -20,7 +20,7 @@ Saat kami meluncurkan kontainer baru, kami dapat menggunakan atribut --net untuk
 
 Pada langkah selanjutnya kita akan menjelajahi kondisi jaringan.
 
-.gambar-05
+
 ![05](images/README.05.jpg)
 
 Step 2 - Network Communication
@@ -43,7 +43,7 @@ Ketika kontainer mencoba mengakses kontainer lain melalui nama yang terkenal, se
 
 'docker run --net=backend-network alpine ping -c1 redis'
 
-.gambar-06
+
 ![06](images/README.06.jpg)
 
 Step 3 - Connect Two Containers
@@ -70,7 +70,7 @@ kita dapat mengujinya menggunakan :
 
 'curl docker:3000'
 
-.gambar-07
+
 ![07](images/README.07.jpg)
 
 Step 4 - Create Aliases
@@ -90,7 +90,7 @@ Ketika kontainer mencoba mengakses layanan melalui nama db, mereka akan diberi a
 
 'docker run --net=frontend-network2 alpine ping -c1 db'
 
-.gambar-08
+
 ![08](images/README.08.jpg)
 
 Step 5 - Disconnect Containers
@@ -101,23 +101,20 @@ Perintah berikut akan mencantumkan semua jaringan di host kita.
 
 'docker network ls'
 
-.gambar-09
+
 ![09](images/README.09.jpg)
 
 Kita kemudian dapat menjelajahi jaringan untuk melihat Kontainer mana yang dilampirkan dan alamat IP mereka.
 
 'docker network inspect frontend-network'
 
-.gambar-09.1
-![09.1](images/README.09.1.jpg)
 
-.gambar-09.2(lanjutan Screenshoot gambar-09.1)
+![09.1](images/README.09.1.jpg)
 ![09.2](images/README.09.2.jpg)
 
 Perintah berikut ini memutus kontainer redis dari jaringan frontend.
 
 'docker network disconnect frontend-network redis'
 
-.gambar-09.3
 
 ![09.3](images/README.09.3.jpg)

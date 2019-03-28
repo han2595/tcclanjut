@@ -10,7 +10,7 @@ Jalankan server redis dengan nama simple redis-server yang akan kita sambungkan 
 
  'docker run -d --name redis-server redis'
 
-.gambar-01
+
 ![01](images/README.01.jpg)
 
 Step 2 - Create Link
@@ -37,7 +37,7 @@ Dengan link yang dibuat, Anda dapat melakukan ping sumber Kontainer dengan cara 
 
 'docker run --link redis-server:redis alpine ping -c 1 redis'
 
-.gambar-02
+
 ![02](images/README.02.jpg)
 
 Step 3 - Connect To App
@@ -56,7 +56,7 @@ Mengirim permintaan HTTP ke aplikasi akan menyimpan permintaan di Redis dan meng
 
 'curl docker:3000'
 
-.gambar-03
+
 ![03](images/README.03.jpg)
 
 Step 4 - Connect to Redis CLI
@@ -75,6 +75,6 @@ Perintah KEYS * akan menampilkan konten yang disimpan saat ini dalam sumber Kont
 
 Ketik QUIT untuk keluar dari CLI.
 
-.gambar-04
+
 ![04](images/README.04.jpg)
 
