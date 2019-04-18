@@ -133,5 +133,4 @@ Untuk menghapus semua wadah gunakan perintah
 ![07](images/README.07.1.jpg)
 
 
-
-<<= * [Back](README.md)
+* [<<=  Back](README.md)

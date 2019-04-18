@@ -179,4 +179,4 @@ Penyeimbang beban akan secara otomatis diperbarui. Permintaan sekarang akan dipr
 
 
 
-*<<=[Back](README.md)
+* [<<= Back](README.md)
