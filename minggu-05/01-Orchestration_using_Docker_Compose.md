@@ -6,9 +6,7 @@ Docker Compose didasarkan pada file docker-compose.yml. File ini mendefinisikan 
 
 Format file didasarkan pada YAML (Yet Another Markup Language).
 
- ```container_name:
-  property: value
-    - or options```
+ ```container_name:property: value- or options```
 
 Tugas: Menentukan Kontainer Pertama
 
@@ -31,14 +29,11 @@ Docker Compose mendukung semua properti yang dapat didefinisikan menggunakan
 
 Untuk menghubungkan dua kontainer bersama untuk menentukan properti tautan dan mendaftar koneksi yang diperlukan. Misalnya, berikut ini akan menautkan ke sumber kontainer redis yang didefinisikan dalam file yang sama dan menetapkan nama yang sama ke alias.
 
-```links:
-    - redis```
+```links:- redis```
 
 Format yang sama digunakan untuk properti lain seperti port
 
-```ports:
-    - "3000"
-    - "8000"```
+```ports: - "3000"- "8000"```
 
 ![02](images/README.02.jpg)
 
@@ -56,10 +51,7 @@ Tugas: Tentukan Kontainer Kedua
 
 Tentukan kontainer kedua dengan nama redis yang menggunakan gambar redis. Mengikuti format YAML, detail kontainer adalah:
 
-```redis:
-  image: redis:alpine
-  volumes:
-    - /var/redis/data:/data```
+```redis:image: redis:alpinevolumes: - /var/redis/data:/data```
 
 ![03](images/README.03.jpg)
 
@@ -143,4 +135,4 @@ Untuk menghapus semua wadah gunakan perintah
 
 
 
-*<<=[Back](README.md)
+<<= * [Back](README.md)
