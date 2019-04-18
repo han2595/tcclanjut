@@ -14,8 +14,7 @@ Dalam skenario ini, kita memiliki aplikasi Node.js yang memerlukan koneksi ke Re
 
 Dengan format di atas, file harus memberi nama kontainer 'web' dan mengatur properti build ke direktori saat ini. 
 
- ```web:
-  build: .```
+ ```web:build: .```
 
 Ini akan mendefinisikan kontainer yang disebut web, yang didasarkan pada pembangunan direktori saat ini.
 
