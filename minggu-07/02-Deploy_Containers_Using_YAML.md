@@ -108,9 +108,9 @@ Mengeluarkan permintaan ke pelabuhan akan menghasilkan berbagai kontainer mempro
 
  ```curl host01:30080```
 
-  ![28](images/README.28.jpg)
+ ![28](images/README.28.jpg)
 
-  Rincian Jaringan Kubernetes tambahan dan Definisi Objek akan dibahas dalam skenario mendatang.25
+  Rincian Jaringan Kubernetes tambahan dan Definisi Objek akan dibahas dalam skenario mendatang.
 
  
 
