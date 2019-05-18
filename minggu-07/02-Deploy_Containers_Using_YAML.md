@@ -87,7 +87,7 @@ Perbarui file deployment.yaml untuk meningkatkan jumlah instance yang berjalan. 
 
  ```kubectl apply -f deployment.yaml```
 
- ![25](images/README.251.jpg)
+ ![25](images/README.25.jpg)
 
  Seketika, keadaan yang diinginkan dari kluster kami telah diperbarui, dapat dilihat dengan
 
