@@ -12,4 +12,4 @@
  4. [minggu-04](minggu-04/README.md)
  5. [minggu-05](minggu-05/README.md)
  6. [minggu-06](minggu-06/README.md)
- 7. [minggu-07](minggu-06/README.md)
+ 7. [minggu-07](minggu-07/README.md)
