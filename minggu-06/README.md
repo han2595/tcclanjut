@@ -1,5 +1,5 @@
-# tcclanjut minggu     -05
-### Katacoda Scenario  -05
+# tcclanjut minggu     -06
+### Katacoda Scenario  -06
 
 :mortar_board: han2595 	:one::six::five::four::one::zero::two::one::two:
 
